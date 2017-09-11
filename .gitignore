@@ -102,4 +102,4 @@ ENV/
 
 *.sqlite3
 .vagrant
-.idea/
+.idea
