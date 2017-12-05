@@ -2,4 +2,5 @@
 
 REST API providing basic functionality for managing user profiles.
 
-Running test server at: ec2-34-240-181-130.eu-west-1.compute.amazonaws.com/api
+Created during a course on Udemy.
+Will be very useful reference material for further exploration of Web App building in the near future.
